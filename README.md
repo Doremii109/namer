@@ -5,7 +5,8 @@
 An advanced remapper that also handles scope effectively within functions, classes, etc.
 
 > Author: **Doremi109** - https://github.com/Doremii109 <br>
-> Channel Link: https://t.me/doratools_channel
+> Channel Link: https://t.me/doratools_channel <br>
+If you encounter any bugs, please send the file you’re trying to remap to me via private message: https://t.me/Hejwowowwoo
 
 ---
 
