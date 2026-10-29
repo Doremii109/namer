@@ -1,7 +1,7 @@
 '''
 Author: Doremi109
 Github: https://github.com/Doremii109
-Project Github: 
+Project Github: https://github.com/Doremii109/namer
 '''
 
 import ast, sys
