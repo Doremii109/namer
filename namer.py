@@ -387,4 +387,4 @@ if __name__ == '__main__':
 	# cho_kavo_gaga_gigi = open('./cyron/VM.py', 'r', encoding='utf8', errors='ignore').read()
 	file = 'tester.py'
 	cho_kavo_gaga_gigi = open(file, 'r', encoding='utf8', errors='ignore').read()
-	open(file[:-3]+'_dor_raname.py', 'w', encoding='utf8').write(rename(cho_kavo_gaga_gigi, track_instances=True))
+	open(file[:-3]+'_dor_rename.py', 'w', encoding='utf8').write(rename(cho_kavo_gaga_gigi, track_instances=True))
