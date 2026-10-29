@@ -1,3 +1,6 @@
+🌐 **Languages:**  
+[🇺🇸 English](README.md) | [🇷🇺 Русский](README_ru.md)
+
 # Namer
 An advanced remapper that also handles scope effectively within functions, classes, etc.
 
