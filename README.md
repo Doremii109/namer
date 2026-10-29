@@ -1,2 +1,2 @@
-# namer
-A well-developed renaming module capable of handling even complex scenarios.
+# Namer
+An advanced remapper that also handles scope effectively within functions, classes, etc.
