@@ -1,7 +1,7 @@
 # Namer
 Продвинутый ремапер, который также хорошо работает с областью видимости в функциях, классах и тд.
 
-> Author: **Doremi109** - https://github.com/Doremii109
+> Автор: **Doremi109** - https://github.com/Doremii109
 
 ---
 
